@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.facebook.com/Chandan.Choudhury.Odin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
 <a href="https://twitter.com/CHANDAN_0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
-<a href="https://www.linkedin.com/in/chandanchoudhury0809-0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
+<a href="https://www.linkedin.com/in/chandan-choudhury-0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
 <a href="https://www.instagram.com/chandan_choudhury_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
 <a href="https://chandanchoudhury.in/" target="blank"><img align="center" src="https://chandanchoudhury.in/favicon.ico" alt="chandanchoudhury0809" height="70" width="80" /></a>
 </p>
