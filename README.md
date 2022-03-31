@@ -12,20 +12,20 @@
 
 <h3 align="left"><img src="https://media0.giphy.com/media/IflNFS33ulVXQHvhXn/giphy.gif?cid=790b7611ac9bf8ad7b091ba697a8942f8b2e886c5d36d22a&rid=giphy.gif&ct=s" width="30px">&nbsp;Connect with me</h3>
 <p align="left">
-<a href="https://www.facebook.com/Chandan.Choudhury.Odin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chandan-Choudhury" height="70" width="80" /></a>
-<a href="https://twitter.com/CHANDAN_0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chandan-Choudhury" height="70" width="80" /></a>
-<a href="https://www.linkedin.com/in/chandan-choudhury-0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chandan-Choudhury" height="70" width="80" /></a>
-<a href="https://www.instagram.com/chandan_choudhury_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Chandan-Choudhury" height="70" width="80" /></a>
-<a href="https://chandanchoudhury.in/" target="blank"><img align="center" src="https://chandanchoudhury.in/favicon.ico" alt="Chandan-Choudhury" height="70" width="80" /></a>
+<a href="https://www.facebook.com/Chandan.Choudhury.Odin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
+<a href="https://twitter.com/CHANDAN_0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
+<a href="https://www.linkedin.com/in/chandanchoudhury0809-0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
+<a href="https://www.instagram.com/chandan_choudhury_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandanchoudhury0809" height="70" width="80" /></a>
+<a href="https://chandanchoudhury.in/" target="blank"><img align="center" src="https://chandanchoudhury.in/favicon.ico" alt="chandanchoudhury0809" height="70" width="80" /></a>
 </p>
 
 <h3 align="left"><img src="https://media4.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=ecf05e479aa16b5066j96h3oolx236la8sjz5mn2ffcd9q5o&rid=giphy.gif&ct=s" width="30px">&nbsp;Statistics</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Choudhury&theme=highcontrast" alt="Chandan-Choudhury" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchoudhury0809&theme=highcontrast" alt="chandanchoudhury0809" /></p>
 
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Chandan-Choudhury&show_icons=true&locale=en&theme=highcontrast" alt="Chandan-Choudhury" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=chandanchoudhury0809&show_icons=true&locale=en&theme=highcontrast" alt="chandanchoudhury0809" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Choudhury&theme=highcontrast" alt="Chandan-Choudhury" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchoudhury0809&theme=highcontrast" alt="chandanchoudhury0809" /></p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
